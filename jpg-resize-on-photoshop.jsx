@@ -1,4 +1,4 @@
-﻿// Photoshopを起動
+// Photoshopを起動
 // サイズ単位をpxに変更
 // 元画像が格納されているフォルダ選択ダイアログを表示（-1）
 // 処理後のjpg書き出し用に-1/outフォルダを新規作成
@@ -7,7 +7,7 @@
 //// 開く
 //// サイズ：600x600px、画質：元画像のサイズに応じて9か12を設定
 //// 保存せずに閉じる
-// Written by 178165
+// Written by isiwari
  
 // Photoshop最新版を起動
 #target photoshop
